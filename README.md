@@ -9,7 +9,7 @@ Arthur: Tianhao Wu
 - [Lyft Bay Wheel Data](https://www.lyft.com/bikes/bay-wheels/system-data)
 - [GEOID / Shapefile](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2021&layergroup=Census+Tracts)
 
-# Library Used
+## Library Used
 - [Scikit-mobility](https://scikit-mobility.github.io/scikit-mobility/index.html)
 - [censusgeocode](https://pypi.org/project/censusgeocode/)
 
