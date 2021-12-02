@@ -3,9 +3,9 @@ CE263 Project
 
 Arthur: Tianhao Wu
 
-[Full Data Analysis](https://github.com/6shun/Lyft-BayWheel/blob/master/BayWheel.ipynb)
-[Heat Map](https://github.com/6shun/Lyft-BayWheel/blob/master/heatmap.ipynb)
-[Census Data Cleaning](https://github.com/6shun/Lyft-BayWheel/blob/master/census_data_cleaning.ipynb)
+- [Full Data Analysis](https://github.com/6shun/Lyft-BayWheel/blob/master/BayWheel.ipynb)
+- [Heat Map](https://github.com/6shun/Lyft-BayWheel/blob/master/heatmap.ipynb)
+- [Census Data Cleaning](https://github.com/6shun/Lyft-BayWheel/blob/master/census_data_cleaning.ipynb)
 
 ## Data
 - [Lyft Bay Wheel Data](https://www.lyft.com/bikes/bay-wheels/system-data)
