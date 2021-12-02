@@ -1,7 +1,5 @@
 # Lyft Bay Wheel
-CE263 Project
-
-Arthur: Tianhao Wu
+CE263 Class Project
 
 - [Full Data Analysis](https://github.com/6shun/Lyft-BayWheel/blob/master/BayWheel.ipynb)
 - [Heat Map](https://github.com/6shun/Lyft-BayWheel/blob/master/heatmap.ipynb)
