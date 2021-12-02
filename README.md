@@ -18,8 +18,8 @@ Arthur: Tianhao Wu
 
 ## Method
 1. Flow Data Frame
-  - Station to Station Flow
-  - Tract To Tract Flow
+    - Station to Station Flow
+    - Tract To Tract Flow
 2. Travel Behavior Analysis
 3. Trip distribution
 4. Clustering Census Data
