@@ -17,6 +17,7 @@ CE263 Class Project
 ## Data
 - [Lyft Bay Wheel Data](https://www.lyft.com/bikes/bay-wheels/system-data)
 - [GEOID / Shapefile](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2021&layergroup=Census+Tracts)
+- [Census Lookup Table](https://www.socialexplorer.com/data/ACS2019_5yr/metadata/?ds=SE)
 
 ## Library Used
 - [Scikit-mobility](https://scikit-mobility.github.io/scikit-mobility/index.html)
