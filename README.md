@@ -24,3 +24,5 @@ CE263 Class Project
 4. Clustering Census Data
 5. Network Analysis
 
+## Presentation
+- [Presentation Slides](https://github.com/6shun/Lyft-BayWheel/blob/master/Presentation.pdf)
