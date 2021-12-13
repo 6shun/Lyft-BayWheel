@@ -1,7 +1,7 @@
 # Lyft Bay Wheel
 CE263 Class Project
 
-- [Full Data Analysis](https://github.com/6shun/Lyft-BayWheel/blob/master/BayWheel.ipynb)
+- **[Full Data Analysis](https://github.com/6shun/Lyft-BayWheel/blob/master/BayWheel.ipynb)**
 - [Heat Map](https://github.com/6shun/Lyft-BayWheel/blob/master/heatmap.ipynb)
 - [Census Data Cleaning](https://github.com/6shun/Lyft-BayWheel/blob/master/census_data_cleaning.ipynb)
 
@@ -15,7 +15,7 @@ CE263 Class Project
 - [Cenpy](http://cenpy-devs.github.io/cenpy/index.html)
 - [NetworkX](https://networkx.org/)
 
-## Method
+## Methods
 1. Flow Data Frame
     - Station to Station Flow
     - Tract To Tract Flow
