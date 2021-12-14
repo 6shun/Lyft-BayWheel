@@ -32,3 +32,6 @@ CE263 Class Project
 
 ## Presentation
 - [Presentation Slides](https://github.com/6shun/Lyft-BayWheel/blob/master/Presentation.pdf)
+
+## Report
+- [Report PDF](https://github.com/6shun/Lyft-BayWheel/blob/master/CE263ProjectReport.pdf)
