@@ -1,5 +1,10 @@
-# Lyft Bay Wheel
+# [Lyft Bay Wheel](https://github.com/6shun/Lyft-BayWheel)
 CE263 Class Project
+
+| Authors      | Email |
+| ----------- | ----------- |
+| Tianhao Wu    | thwu@berkeley.edu	|
+| KyuRi Kim     | kyuri_kim@berkeley.edu	|
 
 ## Data Analysis
 - **[Full Data Analysis](https://github.com/6shun/Lyft-BayWheel/blob/master/BayWheel.ipynb)**
@@ -17,6 +22,7 @@ CE263 Class Project
 ## Data
 - [Lyft Bay Wheel Data](https://www.lyft.com/bikes/bay-wheels/system-data)
 - [GEOID / Shapefile](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2021&layergroup=Census+Tracts)
+- [Census Lookup Table](https://www.socialexplorer.com/data/ACS2019_5yr/metadata/?ds=SE)
 
 ## Library Used
 - [Scikit-mobility](https://scikit-mobility.github.io/scikit-mobility/index.html)
@@ -26,3 +32,6 @@ CE263 Class Project
 
 ## Presentation
 - [Presentation Slides](https://github.com/6shun/Lyft-BayWheel/blob/master/Presentation.pdf)
+
+## Report
+- [Report PDF](https://github.com/6shun/Lyft-BayWheel/blob/master/CE263ProjectReport.pdf)
