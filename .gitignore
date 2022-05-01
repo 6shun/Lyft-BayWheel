@@ -1,3 +1,5 @@
+.gitignore
+
 .ipynb_checkpoints/
 .vscode/
 Referenced_Research_paper/
@@ -6,4 +8,9 @@ desktop.ini
 .DS_Store
 data/Icon
 data/.DS_Store
+Icon
+Icon
+CE263ProjectReport.gdoc
+BayWheels_FinalSubmit.zip
+
 Icon
