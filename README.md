@@ -1,11 +1,6 @@
 # [Lyft Bay Wheel](https://github.com/6shun/Lyft-BayWheel)
 CE263 Class Project
 
-| Authors      | Email |
-| ----------- | ----------- |
-| Tianhao Wu    | thwu@berkeley.edu	|
-| KyuRi Kim     | kyuri_kim@berkeley.edu	|
-
 ## Data Analysis
 - **[Full Data Analysis](https://github.com/6shun/Lyft-BayWheel/blob/master/BayWheel.ipynb)**
 1. Flow Data Frame
