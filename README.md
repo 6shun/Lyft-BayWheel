@@ -11,8 +11,8 @@ CE263 Class Project
 4. Clustering Census Data
 5. Network Analysis
 
-- [Heat Map](https://github.com/6shun/Lyft-BayWheel/blob/master/heatmap.ipynb)
-- [Census Data Cleaning](https://github.com/6shun/Lyft-BayWheel/blob/master/census_data_cleaning.ipynb)
+- [Heat Map](https://github.com/6shun/Lyft-BayWheel/blob/master/Notebooks/2_heatmap.ipynb)
+- [Census Data Cleaning](https://github.com/6shun/Lyft-BayWheel/blob/master/Notebooks/census_data_cleaning.ipynb)
 
 ## Data
 - [Lyft Bay Wheel Data](https://www.lyft.com/bikes/bay-wheels/system-data)
@@ -26,7 +26,7 @@ CE263 Class Project
 - [NetworkX](https://networkx.org/)
 
 ## Presentation
-- [Presentation Slides](https://github.com/6shun/Lyft-BayWheel/blob/master/Presentation.pdf)
+- [Presentation Slides](https://github.com/6shun/Lyft-BayWheel/blob/master/docs/Presentation.pdf)
 
 ## Report
-- [Report PDF](https://github.com/6shun/Lyft-BayWheel/blob/master/CE263ProjectReport.pdf)
+- [Report PDF](https://github.com/6shun/Lyft-BayWheel/blob/master/docs/CE263ProjectReport.pdf)
