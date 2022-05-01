@@ -2,7 +2,7 @@
 CE263 Class Project
 
 ## Data Analysis
-- **[Full Data Analysis](https://github.com/6shun/Lyft-BayWheel/blob/master/BayWheel.ipynb)**
+- **[Full Data Analysis](https://github.com/6shun/Lyft-BayWheel/blob/master/Notebooks/BayWheel.ipynb)**
 1. Flow Data Frame
     - Station to Station Flow
     - Tract To Tract Flow
