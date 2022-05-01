@@ -1,5 +1,5 @@
-# [Lyft Bay Wheel](https://github.com/6shun/Lyft-BayWheel)
-CE263 Class Project
+# Lyft BayWheels Mobility Analysis
+Class Project for course Scalable Spatial Analytics (CivEng 263N)  at UC Berkeley with Prof. Marta C Gonzalez, Fall 2021
 
 ## Data Analysis
 - **[Full Data Analysis](https://github.com/6shun/Lyft-BayWheel/blob/master/Notebooks/BayWheel.ipynb)**
